@@ -3,12 +3,12 @@ My name is Vishrut Deshpande.
 
 # Education
 ### Virginia Tech, Blacksburg, VA  (2022 - Current)
-  Doctor of Philosophy, Mechanical Engineering  (Overall GPA: 3.8)
-  Courses: Machine Design with FEA, Smart Materials, Digital Signal Processing, Multibody Dynamics.
+  Doctor of Philosophy, Mechanical Engineering  (Overall GPA: 3.8) 
+##### Courses: Machine Design with FEA, Smart Materials, Digital Signal Processing, Multibody Dynamics.
 
-### Clemson University}, Clemson, SC \hfill  (2018 - 2022) 
+### Clemson University, Clemson, SC (2018 - 2022) 
   Master of Science (en route PhD), Mechanical Engineering  (Overall GPA: 3.7)
-  Courses: Composite Mechanics, Optimization, Structural Vibrations, Continuum Mechanics, Elasticity
+##### Courses: Composite Mechanics, Optimization, Structural Vibrations, Continuum Mechanics, Elasticity
 
 # Technical Skills
   Programming: Matlab, Java, Python, C++
